@@ -1,10 +1,10 @@
 # PHP - Les variables
 
 ## Exercice 1
-Créer une variable **nom** et l'initialiser avec la valeur de votre choix.  Afficher son contenu.
+Créer une variable **name** et l'initialiser avec la valeur de votre choix.  Afficher son contenu.
 
 ## Exercice 2
-Créer trois variables **nom** , **prenom** et **age** et les initialiser avec les valeurs de votre choix.  **Attention** age est de type entier.  Afficher leur contenu.
+Créer trois variables **lastname** , **firstname** et **age** et les initialiser avec les valeurs de votre choix.  **Attention** age est de type entier.  Afficher leur contenu.
 
 ## Exercice 3
 Créer une variable **km**. L'initialiser à 1. Afficher son contenu.  
@@ -20,12 +20,12 @@ Créer une variable de type int. L'initialiser avec **rien**. Afficher sa valeur
 Donner une valeur à cette variable et l'afficher.
 
 ## Exercice 6
-Créer une variable **nom** et l'initialiser avec la valeur de votre choix.  
-Afficher : "Bonjour" + **nom** + ", comment vas tu ?".
+Créer une variable **name** et l'initialiser avec la valeur de votre choix.  
+Afficher : "Bonjour" + **name** + ", comment vas tu ?".
 
 ## Exercice 7
-Créer trois variables **nom** , **prenom** et **age** et les initialiser avec les valeurs de votre choix.  **Attention** age est de type entier.  
-Afficher : "Bonjour" + **nom** + **prenom** + ",tu as" + **age** + "ans".
+Créer trois variables **lastname** , **firstname** et **age** et les initialiser avec les valeurs de votre choix.  **Attention** age est de type entier.  
+Afficher : "Bonjour" + **lastname** + **firstname** + ",tu as" + **age** + "ans".
 
 ## Exercice 8
 Créer 3 variables.  
