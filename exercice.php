@@ -1,7 +1,6 @@
 <?php
 
     $name = 'thomas <br><br>';
-    
     echo $name;
 
 ?>
